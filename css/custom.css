@@ -7,7 +7,7 @@
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
-  padding: 8rem 0 7rem;
+  /*padding: 8rem 0 7rem;*/
   text-align: center;
 }
 .section-heading,
@@ -32,10 +32,10 @@
 .values {
   background-image: url('../images/values-bg.jpg');
   background-size: cover;
-  padding-bottom: 5rem;
+  padding: 3rem;
 }
 .value-multiplier {
-  margin-bottom: .5rem;
+  /*margin-bottom: .5rem;*/
   color: #8A2193;
 }
 .value-heading {
@@ -103,7 +103,7 @@
     font-size: 2.6rem;
   }
   .section {
-    padding: 14rem 0 15rem;
+    padding: 12rem 0 15rem;
   }
   .hero {
     padding: 16rem 0 14rem;
@@ -112,6 +112,7 @@
     max-width: 60%;
     margin-left: auto;
     margin-right: auto;
+    font-size: 25px;
   }
   .phone {
     top: -14rem;
