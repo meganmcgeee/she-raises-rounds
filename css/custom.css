@@ -184,19 +184,19 @@
 }
 /*Navigation Links*/
 a:link {
-    color: #8E388E;
+    color: #4B0082;
     text-decoration: none;
 
 
 }
 a:visited {
         text-decoration: none;
-color: #8E388E;
+color: #4B0082;
 
 }
 a:hover {
 text-decoration: underline;
-color: #8E388E;
+color: #4B0082;
 
 }
 /*Social Icons*/
